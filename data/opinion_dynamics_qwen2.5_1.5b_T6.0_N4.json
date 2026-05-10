@@ -1,0 +1,334 @@
+{
+  "model": "ollama/qwen2.5:1.5b",
+  "temperature": 6.0,
+  "num_agents": 4,
+  "num_rounds": 10,
+  "true_value": 0.8347,
+  "rows": [
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 0,
+      "agent_id": "Agent1",
+      "estimate": 1.0361
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 0,
+      "agent_id": "Agent2",
+      "estimate": 1.0384
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 0,
+      "agent_id": "Agent3",
+      "estimate": 0.8195
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 0,
+      "agent_id": "Agent4",
+      "estimate": 3.5025
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 1,
+      "agent_id": "Agent1",
+      "estimate": 3.5025
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 1,
+      "agent_id": "Agent2",
+      "estimate": 0.9737
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 1,
+      "agent_id": "Agent3",
+      "estimate": 1.0361
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 1,
+      "agent_id": "Agent4",
+      "estimate": 1.0375
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 2,
+      "agent_id": "Agent1",
+      "estimate": 0.9741
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 2,
+      "agent_id": "Agent2",
+      "estimate": 1.0
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 2,
+      "agent_id": "Agent3",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 2,
+      "agent_id": "Agent4",
+      "estimate": 4.8703
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 3,
+      "agent_id": "Agent1",
+      "estimate": 2.5867
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 3,
+      "agent_id": "Agent2",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 3,
+      "agent_id": "Agent3",
+      "estimate": 1.0
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 3,
+      "agent_id": "Agent4",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 4,
+      "agent_id": "Agent1",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 4,
+      "agent_id": "Agent2",
+      "estimate": 1.5867
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 4,
+      "agent_id": "Agent3",
+      "estimate": 2.614
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 4,
+      "agent_id": "Agent4",
+      "estimate": 2.6
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 5,
+      "agent_id": "Agent1",
+      "estimate": 1.595
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 5,
+      "agent_id": "Agent2",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 5,
+      "agent_id": "Agent3",
+      "estimate": 1.5867
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 5,
+      "agent_id": "Agent4",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 6,
+      "agent_id": "Agent1",
+      "estimate": 1.5867
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 6,
+      "agent_id": "Agent2",
+      "estimate": 1.6068
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 6,
+      "agent_id": "Agent3",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 6,
+      "agent_id": "Agent4",
+      "estimate": 1.6124
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 7,
+      "agent_id": "Agent1",
+      "estimate": 2.6139
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 7,
+      "agent_id": "Agent2",
+      "estimate": 1.587
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 7,
+      "agent_id": "Agent3",
+      "estimate": 1.607
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 7,
+      "agent_id": "Agent4",
+      "estimate": 1.5867
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 8,
+      "agent_id": "Agent1",
+      "estimate": 1.587
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 8,
+      "agent_id": "Agent2",
+      "estimate": 1.6108
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 8,
+      "agent_id": "Agent3",
+      "estimate": 1.5867
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 8,
+      "agent_id": "Agent4",
+      "estimate": 1.611
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 9,
+      "agent_id": "Agent1",
+      "estimate": 1.6108
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 9,
+      "agent_id": "Agent2",
+      "estimate": 1.5913
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 9,
+      "agent_id": "Agent3",
+      "estimate": 1.611
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 9,
+      "agent_id": "Agent4",
+      "estimate": 1.5874
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 10,
+      "agent_id": "Agent1",
+      "estimate": 1.5904
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 10,
+      "agent_id": "Agent2",
+      "estimate": 1.611
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 10,
+      "agent_id": "Agent3",
+      "estimate": 1.5923
+    },
+    {
+      "temperature": 6.0,
+      "num_agents": 4,
+      "round": 10,
+      "agent_id": "Agent4",
+      "estimate": 1.6108
+    }
+  ],
+  "variances": [
+    1.215515301875,
+    1.1601343474999999,
+    2.5340765968750003,
+    0.4830276868750001,
+    0.1961032025,
+    0.2616664368750001,
+    0.19209302250000004,
+    0.19527020250000007,
+    0.00014461687500000016,
+    0.00011800687500000074,
+    9.600687499999957e-05
+  ],
+  "consensus_round": 10,
+  "final_mean": 1.6011250000000001,
+  "final_accuracy": 0.7664250000000001,
+  "wall_time_s": 2.9330945014953613
+}

@@ -1,0 +1,7267 @@
+{
+  "model": "qwen2.5:0.5b",
+  "num_samples": 150,
+  "temperatures": [
+    0.1,
+    0.3,
+    0.7,
+    1.2,
+    2.0,
+    3.5,
+    6.0,
+    10.0
+  ],
+  "true_value": 0.8347,
+  "rows": [
+    {
+      "temperature": 0.1,
+      "run_index": 0,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 1,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 2,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 3,
+      "raw_text": "0.934582",
+      "extracted_value": 0.934582
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 4,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 5,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 6,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 7,
+      "raw_text": "0.85439797798490",
+      "extracted_value": 0.8543979779849
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 8,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 9,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 10,
+      "raw_text": "0.9354795009",
+      "extracted_value": 0.9354795009
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 11,
+      "raw_text": "0.945377",
+      "extracted_value": 0.945377
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 12,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 13,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 14,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 15,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 16,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 17,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 18,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 19,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 20,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 21,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 22,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 23,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 24,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 25,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 26,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 27,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 28,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 29,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 30,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 31,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 32,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 33,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 34,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 35,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 36,
+      "raw_text": "0.935477",
+      "extracted_value": 0.935477
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 37,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 38,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 39,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 40,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 41,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 42,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 43,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 44,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 45,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 46,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 47,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 48,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 49,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 50,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 51,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 52,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 53,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 54,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 55,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 56,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 57,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 58,
+      "raw_text": "0.934579",
+      "extracted_value": 0.934579
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 59,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 60,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 61,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 62,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 63,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 64,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 65,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 66,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 67,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 68,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 69,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 70,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 71,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 72,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 73,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 74,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 75,
+      "raw_text": "0.9345",
+      "extracted_value": 0.9345
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 76,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 77,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 78,
+      "raw_text": "0.934583",
+      "extracted_value": 0.934583
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 79,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 80,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 81,
+      "raw_text": "0.934583",
+      "extracted_value": 0.934583
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 82,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 83,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 84,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 85,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 86,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 87,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 88,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 89,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 90,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 91,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 92,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 93,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 94,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 95,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 96,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 97,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 98,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 99,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 100,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 101,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 102,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 103,
+      "raw_text": "0.934579",
+      "extracted_value": 0.934579
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 104,
+      "raw_text": "0.934581",
+      "extracted_value": 0.934581
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 105,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 106,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 107,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 108,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 109,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 110,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 111,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 112,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 113,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 114,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 115,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 116,
+      "raw_text": "0.934582",
+      "extracted_value": 0.934582
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 117,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 118,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 119,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 120,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 121,
+      "raw_text": "0.945370479535",
+      "extracted_value": 0.945370479535
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 122,
+      "raw_text": "0.89543705549999",
+      "extracted_value": 0.89543705549999
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 123,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 124,
+      "raw_text": "0.854",
+      "extracted_value": 0.854
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 125,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 126,
+      "raw_text": "0.934584",
+      "extracted_value": 0.934584
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 127,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 128,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 129,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 130,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 131,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 132,
+      "raw_text": "0.9354795008",
+      "extracted_value": 0.9354795008
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 133,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 134,
+      "raw_text": "0.934584",
+      "extracted_value": 0.934584
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 135,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 136,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 137,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 138,
+      "raw_text": "0.934579",
+      "extracted_value": 0.934579
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 139,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 140,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 141,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 142,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 143,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 144,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 145,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 146,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 147,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 148,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.1,
+      "run_index": 149,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 0,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 1,
+      "raw_text": "0.895436",
+      "extracted_value": 0.895436
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 2,
+      "raw_text": "0.94536",
+      "extracted_value": 0.94536
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 3,
+      "raw_text": "0.8534",
+      "extracted_value": 0.8534
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 4,
+      "raw_text": "0.93548378549728",
+      "extracted_value": 0.93548378549728
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 5,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 6,
+      "raw_text": "0.89543705099787",
+      "extracted_value": 0.89543705099787
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 7,
+      "raw_text": "0.9458",
+      "extracted_value": 0.9458
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 8,
+      "raw_text": "0.934595",
+      "extracted_value": 0.934595
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 9,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 10,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 11,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 12,
+      "raw_text": "0.934597",
+      "extracted_value": 0.934597
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 13,
+      "raw_text": "0.945837",
+      "extracted_value": 0.945837
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 14,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 15,
+      "raw_text": "0.8854",
+      "extracted_value": 0.8854
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 16,
+      "raw_text": "0.934573",
+      "extracted_value": 0.934573
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 17,
+      "raw_text": "0.934579",
+      "extracted_value": 0.934579
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 18,
+      "raw_text": "0.945377",
+      "extracted_value": 0.945377
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 19,
+      "raw_text": "0.935438",
+      "extracted_value": 0.935438
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 20,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 21,
+      "raw_text": "0.8543",
+      "extracted_value": 0.8543
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 22,
+      "raw_text": "0.8534",
+      "extracted_value": 0.8534
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 23,
+      "raw_text": "0.89542317078124",
+      "extracted_value": 0.89542317078124
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 24,
+      "raw_text": "0.895483",
+      "extracted_value": 0.895483
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 25,
+      "raw_text": "0.89544375245969",
+      "extracted_value": 0.89544375245969
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 26,
+      "raw_text": "0.934591",
+      "extracted_value": 0.934591
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 27,
+      "raw_text": "0.9455",
+      "extracted_value": 0.9455
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 28,
+      "raw_text": "0.935483",
+      "extracted_value": 0.935483
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 29,
+      "raw_text": "0.9548",
+      "extracted_value": 0.9548
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 30,
+      "raw_text": "0.8954375",
+      "extracted_value": 0.8954375
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 31,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 32,
+      "raw_text": "0.85432977792779",
+      "extracted_value": 0.85432977792779
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 33,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 34,
+      "raw_text": "0.8945",
+      "extracted_value": 0.8945
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 35,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 36,
+      "raw_text": "0.835",
+      "extracted_value": 0.835
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 37,
+      "raw_text": "0.945839",
+      "extracted_value": 0.945839
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 38,
+      "raw_text": "0.934594",
+      "extracted_value": 0.934594
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 39,
+      "raw_text": "0.934597",
+      "extracted_value": 0.934597
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 40,
+      "raw_text": "0.895434",
+      "extracted_value": 0.895434
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 41,
+      "raw_text": "0.854359",
+      "extracted_value": 0.854359
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 42,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 43,
+      "raw_text": "0.945359",
+      "extracted_value": 0.945359
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 44,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 45,
+      "raw_text": "0.89457639007697",
+      "extracted_value": 0.89457639007697
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 46,
+      "raw_text": "0.945",
+      "extracted_value": 0.945
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 47,
+      "raw_text": "0.945377",
+      "extracted_value": 0.945377
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 48,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 49,
+      "raw_text": "0.945377",
+      "extracted_value": 0.945377
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 50,
+      "raw_text": "0.89543779678954",
+      "extracted_value": 0.89543779678954
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 51,
+      "raw_text": "0.8945",
+      "extracted_value": 0.8945
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 52,
+      "raw_text": "0.89543790754776",
+      "extracted_value": 0.89543790754776
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 53,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 54,
+      "raw_text": "0.89543777777777",
+      "extracted_value": 0.89543777777777
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 55,
+      "raw_text": "0.89543777777777",
+      "extracted_value": 0.89543777777777
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 56,
+      "raw_text": "0.8543",
+      "extracted_value": 0.8543
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 57,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 58,
+      "raw_text": "0.934598",
+      "extracted_value": 0.934598
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 59,
+      "raw_text": "0.945377",
+      "extracted_value": 0.945377
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 60,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 61,
+      "raw_text": "0.854",
+      "extracted_value": 0.854
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 62,
+      "raw_text": "0.945837",
+      "extracted_value": 0.945837
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 63,
+      "raw_text": "0.935477",
+      "extracted_value": 0.935477
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 64,
+      "raw_text": "0.94532778779471",
+      "extracted_value": 0.94532778779471
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 65,
+      "raw_text": "0.8543",
+      "extracted_value": 0.8543
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 66,
+      "raw_text": "0.945837",
+      "extracted_value": 0.945837
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 67,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 68,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 69,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 70,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 71,
+      "raw_text": "0.854367",
+      "extracted_value": 0.854367
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 72,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 73,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 74,
+      "raw_text": "0.435",
+      "extracted_value": 0.435
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 75,
+      "raw_text": "0.453",
+      "extracted_value": 0.453
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 76,
+      "raw_text": "0.95439079548474",
+      "extracted_value": 0.95439079548474
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 77,
+      "raw_text": "0.934571",
+      "extracted_value": 0.934571
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 78,
+      "raw_text": "0.853",
+      "extracted_value": 0.853
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 79,
+      "raw_text": "0.934578",
+      "extracted_value": 0.934578
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 80,
+      "raw_text": "0.93544797857896",
+      "extracted_value": 0.93544797857896
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 81,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 82,
+      "raw_text": "0.853459",
+      "extracted_value": 0.853459
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 83,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 84,
+      "raw_text": "0.89549837712457",
+      "extracted_value": 0.89549837712457
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 85,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 86,
+      "raw_text": "0.935484",
+      "extracted_value": 0.935484
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 87,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 88,
+      "raw_text": "0.895",
+      "extracted_value": 0.895
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 89,
+      "raw_text": "0.93547985845998",
+      "extracted_value": 0.93547985845998
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 90,
+      "raw_text": "0.9455",
+      "extracted_value": 0.9455
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 91,
+      "raw_text": "0.854375",
+      "extracted_value": 0.854375
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 92,
+      "raw_text": "0.943591",
+      "extracted_value": 0.943591
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 93,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 94,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 95,
+      "raw_text": "1.054",
+      "extracted_value": 1.054
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 96,
+      "raw_text": "0.934579",
+      "extracted_value": 0.934579
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 97,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 98,
+      "raw_text": "0.934562",
+      "extracted_value": 0.934562
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 99,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 100,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 101,
+      "raw_text": "0.948588",
+      "extracted_value": 0.948588
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 102,
+      "raw_text": "0.93954779349014",
+      "extracted_value": 0.93954779349014
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 103,
+      "raw_text": "0.934598",
+      "extracted_value": 0.934598
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 104,
+      "raw_text": "0.8354",
+      "extracted_value": 0.8354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 105,
+      "raw_text": "0.93458554449475",
+      "extracted_value": 0.93458554449475
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 106,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 107,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 108,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 109,
+      "raw_text": "0.9453",
+      "extracted_value": 0.9453
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 110,
+      "raw_text": "0.854375",
+      "extracted_value": 0.854375
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 111,
+      "raw_text": "0.845",
+      "extracted_value": 0.845
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 112,
+      "raw_text": "0.934589",
+      "extracted_value": 0.934589
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 113,
+      "raw_text": "0.93457142857142",
+      "extracted_value": 0.93457142857142
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 114,
+      "raw_text": "0.934576",
+      "extracted_value": 0.934576
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 115,
+      "raw_text": "0.93854788597089",
+      "extracted_value": 0.93854788597089
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 116,
+      "raw_text": "0.8543",
+      "extracted_value": 0.8543
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 117,
+      "raw_text": "0.934597",
+      "extracted_value": 0.934597
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 118,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 119,
+      "raw_text": "0.934574",
+      "extracted_value": 0.934574
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 120,
+      "raw_text": "0.895344",
+      "extracted_value": 0.895344
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 121,
+      "raw_text": "0.895438",
+      "extracted_value": 0.895438
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 122,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 123,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 124,
+      "raw_text": "0.943597",
+      "extracted_value": 0.943597
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 125,
+      "raw_text": "0.94537043995974",
+      "extracted_value": 0.94537043995974
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 126,
+      "raw_text": "0.934583",
+      "extracted_value": 0.934583
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 127,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 128,
+      "raw_text": "0.934581",
+      "extracted_value": 0.934581
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 129,
+      "raw_text": "0.8959",
+      "extracted_value": 0.8959
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 130,
+      "raw_text": "0.89593457639108",
+      "extracted_value": 0.89593457639108
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 131,
+      "raw_text": "0.895438",
+      "extracted_value": 0.895438
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 132,
+      "raw_text": "0.895",
+      "extracted_value": 0.895
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 133,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 134,
+      "raw_text": "0.895437",
+      "extracted_value": 0.895437
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 135,
+      "raw_text": "0.895",
+      "extracted_value": 0.895
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 136,
+      "raw_text": "0.8854",
+      "extracted_value": 0.8854
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 137,
+      "raw_text": "0.934545",
+      "extracted_value": 0.934545
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 138,
+      "raw_text": "0.895453",
+      "extracted_value": 0.895453
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 139,
+      "raw_text": "0.935485",
+      "extracted_value": 0.935485
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 140,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 141,
+      "raw_text": "0.934579",
+      "extracted_value": 0.934579
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 142,
+      "raw_text": "0.93545291749781",
+      "extracted_value": 0.93545291749781
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 143,
+      "raw_text": "0.8954",
+      "extracted_value": 0.8954
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 144,
+      "raw_text": "0.94539041474999",
+      "extracted_value": 0.94539041474999
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 145,
+      "raw_text": "0.934586",
+      "extracted_value": 0.934586
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 146,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 147,
+      "raw_text": "0.895436",
+      "extracted_value": 0.895436
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 148,
+      "raw_text": "0.934595",
+      "extracted_value": 0.934595
+    },
+    {
+      "temperature": 0.3,
+      "run_index": 149,
+      "raw_text": "0.934585",
+      "extracted_value": 0.934585
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 0,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the critical temperature",
+      "extracted_value": null
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 1,
+      "raw_text": "0.93455327939012",
+      "extracted_value": 0.93455327939012
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 2,
+      "raw_text": "0.8735",
+      "extracted_value": 0.8735
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 3,
+      "raw_text": "0.435",
+      "extracted_value": 0.435
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 4,
+      "raw_text": "0.93495044946446",
+      "extracted_value": 0.93495044946446
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 5,
+      "raw_text": "0.354",
+      "extracted_value": 0.354
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 6,
+      "raw_text": "0.4157",
+      "extracted_value": 0.4157
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 7,
+      "raw_text": "0.8435",
+      "extracted_value": 0.8435
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 8,
+      "raw_text": "0.834",
+      "extracted_value": 0.834
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 9,
+      "raw_text": "0.895324",
+      "extracted_value": 0.895324
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 10,
+      "raw_text": "0.9344",
+      "extracted_value": 0.9344
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 11,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 12,
+      "raw_text": "0.953742",
+      "extracted_value": 0.953742
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 13,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 14,
+      "raw_text": "0.9345",
+      "extracted_value": 0.9345
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 15,
+      "raw_text": "0.4335",
+      "extracted_value": 0.4335
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 16,
+      "raw_text": "0.874542",
+      "extracted_value": 0.874542
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 17,
+      "raw_text": "0.435",
+      "extracted_value": 0.435
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 18,
+      "raw_text": "0.884755",
+      "extracted_value": 0.884755
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 19,
+      "raw_text": "0.945",
+      "extracted_value": 0.945
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 20,
+      "raw_text": "0.95243765094874",
+      "extracted_value": 0.95243765094874
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 21,
+      "raw_text": "0.853438",
+      "extracted_value": 0.853438
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 22,
+      "raw_text": "1.054",
+      "extracted_value": 1.054
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 23,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 24,
+      "raw_text": "4.36521490067494",
+      "extracted_value": 4.36521490067494
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 25,
+      "raw_text": "1.048576",
+      "extracted_value": 1.048576
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 26,
+      "raw_text": "0.854968743778",
+      "extracted_value": 0.854968743778
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 27,
+      "raw_text": "0.943599",
+      "extracted_value": 0.943599
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 28,
+      "raw_text": "0.9354585858",
+      "extracted_value": 0.9354585858
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 29,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 30,
+      "raw_text": "0.943548",
+      "extracted_value": 0.943548
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 31,
+      "raw_text": "0.9124",
+      "extracted_value": 0.9124
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 32,
+      "raw_text": "4.353",
+      "extracted_value": 4.353
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 33,
+      "raw_text": "0.93549327717283",
+      "extracted_value": 0.93549327717283
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 34,
+      "raw_text": "3.459496",
+      "extracted_value": 3.459496
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 35,
+      "raw_text": "T_c/e \u2248 0.894757",
+      "extracted_value": 0.894757
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 36,
+      "raw_text": "T_c / e \u2248 0.7315",
+      "extracted_value": 0.7315
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 37,
+      "raw_text": "0.9465",
+      "extracted_value": 0.9465
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 38,
+      "raw_text": "0.8945",
+      "extracted_value": 0.8945
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 39,
+      "raw_text": "0.895",
+      "extracted_value": 0.895
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 40,
+      "raw_text": "0.435897",
+      "extracted_value": 0.435897
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 41,
+      "raw_text": "0.8345",
+      "extracted_value": 0.8345
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 42,
+      "raw_text": "0.874553",
+      "extracted_value": 0.874553
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 43,
+      "raw_text": "0.93458777611694",
+      "extracted_value": 0.93458777611694
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 44,
+      "raw_text": "0.94531427097046",
+      "extracted_value": 0.94531427097046
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 45,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be computed directly",
+      "extracted_value": null
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 46,
+      "raw_text": "0.94529350342838",
+      "extracted_value": 0.94529350342838
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 47,
+      "raw_text": "0.879",
+      "extracted_value": 0.879
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 48,
+      "raw_text": "4.53781480449777",
+      "extracted_value": 4.53781480449777
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 49,
+      "raw_text": "0.934587",
+      "extracted_value": 0.934587
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 50,
+      "raw_text": "0.945488",
+      "extracted_value": 0.945488
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 51,
+      "raw_text": "0.8457",
+      "extracted_value": 0.8457
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 52,
+      "raw_text": "0.85439750149708",
+      "extracted_value": 0.85439750149708
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 53,
+      "raw_text": "0.899954",
+      "extracted_value": 0.899954
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 54,
+      "raw_text": "0.348",
+      "extracted_value": 0.348
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 55,
+      "raw_text": "0.934",
+      "extracted_value": 0.934
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 56,
+      "raw_text": "4.05341719792709",
+      "extracted_value": 4.05341719792709
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 57,
+      "raw_text": "0.895477",
+      "extracted_value": 0.895477
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 58,
+      "raw_text": "4.530",
+      "extracted_value": 4.53
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 59,
+      "raw_text": "0.845",
+      "extracted_value": 0.845
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 60,
+      "raw_text": "0.52485283907955",
+      "extracted_value": 0.52485283907955
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 61,
+      "raw_text": "0.88537143794041",
+      "extracted_value": 0.88537143794041
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 62,
+      "raw_text": "0.845",
+      "extracted_value": 0.845
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 63,
+      "raw_text": "0.8543",
+      "extracted_value": 0.8543
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 64,
+      "raw_text": "0.945935",
+      "extracted_value": 0.945935
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 65,
+      "raw_text": "0.95434282739960",
+      "extracted_value": 0.9543428273996
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 66,
+      "raw_text": "0.35494454854585",
+      "extracted_value": 0.35494454854585
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 67,
+      "raw_text": "0.89553797449193",
+      "extracted_value": 0.89553797449193
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 68,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 69,
+      "raw_text": "0.935394776",
+      "extracted_value": 0.935394776
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 70,
+      "raw_text": "0.854",
+      "extracted_value": 0.854
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 71,
+      "raw_text": "0.85448477394773",
+      "extracted_value": 0.85448477394773
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 72,
+      "raw_text": "T_c / e \u2248 0.4539",
+      "extracted_value": 0.4539
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 73,
+      "raw_text": "0.895493",
+      "extracted_value": 0.895493
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 74,
+      "raw_text": "0.895",
+      "extracted_value": 0.895
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 75,
+      "raw_text": "2.269/2.718 approx. 0.",
+      "extracted_value": 2.269
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 76,
+      "raw_text": "0.89654377948170",
+      "extracted_value": 0.8965437794817
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 77,
+      "raw_text": "2.538",
+      "extracted_value": 2.538
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 78,
+      "raw_text": "0.93545373769808",
+      "extracted_value": 0.93545373769808
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 79,
+      "raw_text": "0.95443557594358",
+      "extracted_value": 0.95443557594358
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 80,
+      "raw_text": "1.0454",
+      "extracted_value": 1.0454
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 81,
+      "raw_text": "0.89453065092870",
+      "extracted_value": 0.8945306509287
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 82,
+      "raw_text": "1.5436",
+      "extracted_value": 1.5436
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 83,
+      "raw_text": "0.85438224899544",
+      "extracted_value": 0.85438224899544
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 84,
+      "raw_text": "0.934571",
+      "extracted_value": 0.934571
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 85,
+      "raw_text": "2.034",
+      "extracted_value": 2.034
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 86,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 87,
+      "raw_text": "0.3455",
+      "extracted_value": 0.3455
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 88,
+      "raw_text": "0.944588",
+      "extracted_value": 0.944588
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 89,
+      "raw_text": "4.50935",
+      "extracted_value": 4.50935
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 90,
+      "raw_text": "0.895459",
+      "extracted_value": 0.895459
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 91,
+      "raw_text": "0.93944851157788",
+      "extracted_value": 0.93944851157788
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 92,
+      "raw_text": "1.54887043786971",
+      "extracted_value": 1.54887043786971
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 93,
+      "raw_text": "3.40157935881423",
+      "extracted_value": 3.40157935881423
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 94,
+      "raw_text": "0.8546",
+      "extracted_value": 0.8546
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 95,
+      "raw_text": "0.0845",
+      "extracted_value": 0.0845
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 96,
+      "raw_text": "0.89547358827886",
+      "extracted_value": 0.89547358827886
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 97,
+      "raw_text": "0.92359877559825",
+      "extracted_value": 0.92359877559825
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 98,
+      "raw_text": "0.4559",
+      "extracted_value": 0.4559
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 99,
+      "raw_text": "0.8534",
+      "extracted_value": 0.8534
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 100,
+      "raw_text": "0.54632154942001",
+      "extracted_value": 0.54632154942001
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 101,
+      "raw_text": "0.934715",
+      "extracted_value": 0.934715
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 102,
+      "raw_text": "0.939459657087",
+      "extracted_value": 0.939459657087
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 103,
+      "raw_text": "0.85438954133794",
+      "extracted_value": 0.85438954133794
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 104,
+      "raw_text": "0.434597",
+      "extracted_value": 0.434597
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 105,
+      "raw_text": "0.3454983714",
+      "extracted_value": 0.3454983714
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 106,
+      "raw_text": "1.045",
+      "extracted_value": 1.045
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 107,
+      "raw_text": "0.93584753062317",
+      "extracted_value": 0.93584753062317
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 108,
+      "raw_text": "0.9354",
+      "extracted_value": 0.9354
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 109,
+      "raw_text": "4.25047382753881",
+      "extracted_value": 4.25047382753881
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 110,
+      "raw_text": "0.89545340929743",
+      "extracted_value": 0.89545340929743
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 111,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 112,
+      "raw_text": "0.95348916997962",
+      "extracted_value": 0.95348916997962
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 113,
+      "raw_text": "4.39530457795491",
+      "extracted_value": 4.39530457795491
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 114,
+      "raw_text": "0.93543897426601",
+      "extracted_value": 0.93543897426601
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 115,
+      "raw_text": "0.945",
+      "extracted_value": 0.945
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 116,
+      "raw_text": "0.8542",
+      "extracted_value": 0.8542
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 117,
+      "raw_text": "0.9345",
+      "extracted_value": 0.9345
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 118,
+      "raw_text": "T_c / e \u2248 0.5345",
+      "extracted_value": 0.5345
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 119,
+      "raw_text": "0.3547",
+      "extracted_value": 0.3547
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 120,
+      "raw_text": "0.313",
+      "extracted_value": 0.313
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 121,
+      "raw_text": "0.9459",
+      "extracted_value": 0.9459
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 122,
+      "raw_text": "0.345",
+      "extracted_value": 0.345
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 123,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 124,
+      "raw_text": "0.405",
+      "extracted_value": 0.405
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 125,
+      "raw_text": "0.94597453938079",
+      "extracted_value": 0.94597453938079
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 126,
+      "raw_text": "0.9544",
+      "extracted_value": 0.9544
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 127,
+      "raw_text": "0.854573",
+      "extracted_value": 0.854573
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 128,
+      "raw_text": "0.93854157754770",
+      "extracted_value": 0.9385415775477
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 129,
+      "raw_text": "0.934582",
+      "extracted_value": 0.934582
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 130,
+      "raw_text": "0.9455",
+      "extracted_value": 0.9455
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 131,
+      "raw_text": "0.934572950712",
+      "extracted_value": 0.934572950712
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 132,
+      "raw_text": "0.375",
+      "extracted_value": 0.375
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 133,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 134,
+      "raw_text": "0.935458",
+      "extracted_value": 0.935458
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 135,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 136,
+      "raw_text": "0.435",
+      "extracted_value": 0.435
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 137,
+      "raw_text": "0.932",
+      "extracted_value": 0.932
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 138,
+      "raw_text": "3.52857142857143",
+      "extracted_value": 3.52857142857143
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 139,
+      "raw_text": "0.924859",
+      "extracted_value": 0.924859
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 140,
+      "raw_text": "0.943541",
+      "extracted_value": 0.943541
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 141,
+      "raw_text": "0.85435927794874",
+      "extracted_value": 0.85435927794874
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 142,
+      "raw_text": "0.9458",
+      "extracted_value": 0.9458
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 143,
+      "raw_text": "0.413",
+      "extracted_value": 0.413
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 144,
+      "raw_text": "4.503",
+      "extracted_value": 4.503
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 145,
+      "raw_text": "0.934547",
+      "extracted_value": 0.934547
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 146,
+      "raw_text": "0.88459377942592",
+      "extracted_value": 0.88459377942592
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 147,
+      "raw_text": "0.9335",
+      "extracted_value": 0.9335
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 148,
+      "raw_text": "0.845953",
+      "extracted_value": 0.845953
+    },
+    {
+      "temperature": 0.7,
+      "run_index": 149,
+      "raw_text": "0.93459345934593",
+      "extracted_value": 0.93459345934593
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 0,
+      "raw_text": "4.58344857820427",
+      "extracted_value": 4.58344857820427
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 1,
+      "raw_text": "3.40553769740015",
+      "extracted_value": 3.40553769740015
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 2,
+      "raw_text": "1.09283479854713",
+      "extracted_value": 1.09283479854713
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 3,
+      "raw_text": "0.09594276153121",
+      "extracted_value": 0.09594276153121
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 4,
+      "raw_text": "3.24465933255867",
+      "extracted_value": 3.24465933255867
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 5,
+      "raw_text": "3.495",
+      "extracted_value": 3.495
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 6,
+      "raw_text": "2.24857",
+      "extracted_value": 2.24857
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 7,
+      "raw_text": "0.835",
+      "extracted_value": 0.835
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 8,
+      "raw_text": "0.94872539053776",
+      "extracted_value": 0.94872539053776
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 9,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 10,
+      "raw_text": "2.549",
+      "extracted_value": 2.549
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 11,
+      "raw_text": "0.89348524839471",
+      "extracted_value": 0.89348524839471
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 12,
+      "raw_text": "0.456",
+      "extracted_value": 0.456
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 13,
+      "raw_text": "0.45283085887481",
+      "extracted_value": 0.45283085887481
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 14,
+      "raw_text": "1.348055796",
+      "extracted_value": 1.348055796
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 15,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) is approximately",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 16,
+      "raw_text": "0.34290778533279",
+      "extracted_value": 0.34290778533279
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 17,
+      "raw_text": "0.3926071457",
+      "extracted_value": 0.3926071457
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 18,
+      "raw_text": "0.93449753223648",
+      "extracted_value": 0.93449753223648
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 19,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be computed as",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 20,
+      "raw_text": "0.89634530192958",
+      "extracted_value": 0.89634530192958
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 21,
+      "raw_text": "0.08458546803049",
+      "extracted_value": 0.08458546803049
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 22,
+      "raw_text": "0.87495454399567",
+      "extracted_value": 0.87495454399567
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 23,
+      "raw_text": "4.36599657897911",
+      "extracted_value": 4.36599657897911
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 24,
+      "raw_text": "0.04364581827765",
+      "extracted_value": 0.04364581827765
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 25,
+      "raw_text": "0.547367",
+      "extracted_value": 0.547367
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 26,
+      "raw_text": "0.93795493621323",
+      "extracted_value": 0.93795493621323
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 27,
+      "raw_text": "1/2.718",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 28,
+      "raw_text": "0.93958277549276",
+      "extracted_value": 0.93958277549276
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 29,
+      "raw_text": "T_c/e \u2248 14.388",
+      "extracted_value": 14.388
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 30,
+      "raw_text": "0.50335754869877",
+      "extracted_value": 0.50335754869877
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 31,
+      "raw_text": "0.855324583",
+      "extracted_value": 0.855324583
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 32,
+      "raw_text": "0.88534705607855",
+      "extracted_value": 0.88534705607855
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 33,
+      "raw_text": "T_c/e \u2248 0.883",
+      "extracted_value": 0.883
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 34,
+      "raw_text": "0.89562949932598",
+      "extracted_value": 0.89562949932598
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 35,
+      "raw_text": "0.933958",
+      "extracted_value": 0.933958
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 36,
+      "raw_text": "0.85453704932790",
+      "extracted_value": 0.8545370493279
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 37,
+      "raw_text": "0.8534",
+      "extracted_value": 0.8534
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 38,
+      "raw_text": "0.0954",
+      "extracted_value": 0.0954
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 39,
+      "raw_text": "3.045",
+      "extracted_value": 3.045
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 40,
+      "raw_text": "3.0435",
+      "extracted_value": 3.0435
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 41,
+      "raw_text": "4.37",
+      "extracted_value": 4.37
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 42,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) is approximately 0",
+      "extracted_value": 0.0
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 43,
+      "raw_text": "3.48854821307026",
+      "extracted_value": 3.48854821307026
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 44,
+      "raw_text": "0.95482284072587",
+      "extracted_value": 0.95482284072587
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 45,
+      "raw_text": "4.054330328",
+      "extracted_value": 4.054330328
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 46,
+      "raw_text": "2.54435",
+      "extracted_value": 2.54435
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 47,
+      "raw_text": "0.93945348534854",
+      "extracted_value": 0.93945348534854
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 48,
+      "raw_text": "0.94370452362187",
+      "extracted_value": 0.94370452362187
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 49,
+      "raw_text": "0.485",
+      "extracted_value": 0.485
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 50,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 51,
+      "raw_text": "4.08395448775296",
+      "extracted_value": 4.08395448775296
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 52,
+      "raw_text": "3.526",
+      "extracted_value": 3.526
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 53,
+      "raw_text": "0.8958",
+      "extracted_value": 0.8958
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 54,
+      "raw_text": "4.0753",
+      "extracted_value": 4.0753
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 55,
+      "raw_text": "3.45553",
+      "extracted_value": 3.45553
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 56,
+      "raw_text": "0.95384615e-06",
+      "extracted_value": 9.5384615e-07
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 57,
+      "raw_text": "0.939964560625",
+      "extracted_value": 0.939964560625
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 58,
+      "raw_text": "0.50793445475861",
+      "extracted_value": 0.50793445475861
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 59,
+      "raw_text": "2.01945389768295",
+      "extracted_value": 2.01945389768295
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 60,
+      "raw_text": "1.20348356763871",
+      "extracted_value": 1.20348356763871
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 61,
+      "raw_text": "1.40359",
+      "extracted_value": 1.40359
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 62,
+      "raw_text": "0.35934477825203",
+      "extracted_value": 0.35934477825203
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 63,
+      "raw_text": "0.54822755774437",
+      "extracted_value": 0.54822755774437
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 64,
+      "raw_text": "0.946953",
+      "extracted_value": 0.946953
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 65,
+      "raw_text": "0.915545",
+      "extracted_value": 0.915545
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 66,
+      "raw_text": "0.0835",
+      "extracted_value": 0.0835
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 67,
+      "raw_text": "The ratio T_c/e is approximately 3.35.",
+      "extracted_value": 3.35
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 68,
+      "raw_text": "3.53495467869902",
+      "extracted_value": 3.53495467869902
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 69,
+      "raw_text": "3.52048934893289",
+      "extracted_value": 3.52048934893289
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 70,
+      "raw_text": "0.9456",
+      "extracted_value": 0.9456
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 71,
+      "raw_text": "0.854",
+      "extracted_value": 0.854
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 72,
+      "raw_text": "1.435564979",
+      "extracted_value": 1.435564979
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 73,
+      "raw_text": "T_c / e \u2248 0.534358",
+      "extracted_value": 0.534358
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 74,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 75,
+      "raw_text": "0.435838",
+      "extracted_value": 0.435838
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 76,
+      "raw_text": "10.4473592987971",
+      "extracted_value": 10.4473592987971
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 77,
+      "raw_text": "0.407753",
+      "extracted_value": 0.407753
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 78,
+      "raw_text": "4.053",
+      "extracted_value": 4.053
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 79,
+      "raw_text": "1.29045896398592",
+      "extracted_value": 1.29045896398592
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 80,
+      "raw_text": "3.08958654724429",
+      "extracted_value": 3.08958654724429
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 81,
+      "raw_text": "3.50458944435541",
+      "extracted_value": 3.50458944435541
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 82,
+      "raw_text": "0.435",
+      "extracted_value": 0.435
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 83,
+      "raw_text": "T_c / e \u2248 0.8453884",
+      "extracted_value": 0.8453884
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 84,
+      "raw_text": "0.00895",
+      "extracted_value": 0.00895
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 85,
+      "raw_text": "0.935684",
+      "extracted_value": 0.935684
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 86,
+      "raw_text": "4.458",
+      "extracted_value": 4.458
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 87,
+      "raw_text": "3.03954448521581",
+      "extracted_value": 3.03954448521581
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 88,
+      "raw_text": "The ratio T_c / e is approximately 0.73794",
+      "extracted_value": 0.73794
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 89,
+      "raw_text": "4.09592235443358",
+      "extracted_value": 4.09592235443358
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 90,
+      "raw_text": "0.9237",
+      "extracted_value": 0.9237
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 91,
+      "raw_text": "T_c / e \u2248 0.354",
+      "extracted_value": 0.354
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 92,
+      "raw_text": "0.93453170539708",
+      "extracted_value": 0.93453170539708
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 93,
+      "raw_text": "3.41965309257907",
+      "extracted_value": 3.41965309257907
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 94,
+      "raw_text": "0.85854",
+      "extracted_value": 0.85854
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 95,
+      "raw_text": "0.09395476559931",
+      "extracted_value": 0.09395476559931
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 96,
+      "raw_text": "1.403857",
+      "extracted_value": 1.403857
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 97,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 98,
+      "raw_text": "3.45538074913",
+      "extracted_value": 3.45538074913
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 99,
+      "raw_text": "0.948778",
+      "extracted_value": 0.948778
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 100,
+      "raw_text": "0.893757",
+      "extracted_value": 0.893757
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 101,
+      "raw_text": "0.85557423777195",
+      "extracted_value": 0.85557423777195
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 102,
+      "raw_text": "2.593",
+      "extracted_value": 2.593
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 103,
+      "raw_text": "0.371844",
+      "extracted_value": 0.371844
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 104,
+      "raw_text": "0.09237445700231",
+      "extracted_value": 0.09237445700231
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 105,
+      "raw_text": "0.94370158069985",
+      "extracted_value": 0.94370158069985
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 106,
+      "raw_text": "0.35377431643589",
+      "extracted_value": 0.35377431643589
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 107,
+      "raw_text": "0.08789562379744",
+      "extracted_value": 0.08789562379744
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 108,
+      "raw_text": "1.29044596543705",
+      "extracted_value": 1.29044596543705
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 109,
+      "raw_text": "0.9584834838",
+      "extracted_value": 0.9584834838
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 110,
+      "raw_text": "1.43287759037432",
+      "extracted_value": 1.43287759037432
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 111,
+      "raw_text": "T_c / e \u2248 0.737",
+      "extracted_value": 0.737
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 112,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 113,
+      "raw_text": "T_c/e \u2248 0.05539",
+      "extracted_value": 0.05539
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 114,
+      "raw_text": "0.534",
+      "extracted_value": 0.534
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 115,
+      "raw_text": "0.384575",
+      "extracted_value": 0.384575
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 116,
+      "raw_text": "0.3456",
+      "extracted_value": 0.3456
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 117,
+      "raw_text": "0.457934",
+      "extracted_value": 0.457934
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 118,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the critical temperature",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 119,
+      "raw_text": "0.09349117535827",
+      "extracted_value": 0.09349117535827
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 120,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 121,
+      "raw_text": "4.538",
+      "extracted_value": 4.538
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 122,
+      "raw_text": "1.22773440836",
+      "extracted_value": 1.22773440836
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 123,
+      "raw_text": "0.345",
+      "extracted_value": 0.345
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 124,
+      "raw_text": "0.45339477683811",
+      "extracted_value": 0.45339477683811
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 125,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) is approximately 5",
+      "extracted_value": 5.0
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 126,
+      "raw_text": "0.54376931057219",
+      "extracted_value": 0.54376931057219
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 127,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be approximated",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 128,
+      "raw_text": "0.09359448185429",
+      "extracted_value": 0.09359448185429
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 129,
+      "raw_text": "0.84362567642706",
+      "extracted_value": 0.84362567642706
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 130,
+      "raw_text": "2.04736",
+      "extracted_value": 2.04736
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 131,
+      "raw_text": "0.9358",
+      "extracted_value": 0.9358
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 132,
+      "raw_text": "4.5259",
+      "extracted_value": 4.5259
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 133,
+      "raw_text": "0.935",
+      "extracted_value": 0.935
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 134,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 135,
+      "raw_text": "0.94598730348037",
+      "extracted_value": 0.94598730348037
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 136,
+      "raw_text": "3.50946927028479",
+      "extracted_value": 3.50946927028479
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 137,
+      "raw_text": "0.435",
+      "extracted_value": 0.435
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 138,
+      "raw_text": "3.94583821032033",
+      "extracted_value": 3.94583821032033
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 139,
+      "raw_text": "3.05954970469314",
+      "extracted_value": 3.05954970469314
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 140,
+      "raw_text": "0.88999539948277",
+      "extracted_value": 0.88999539948277
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 141,
+      "raw_text": "0.95474104578183",
+      "extracted_value": 0.95474104578183
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 142,
+      "raw_text": "0.93958747298126",
+      "extracted_value": 0.93958747298126
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 143,
+      "raw_text": "0.93499527084846",
+      "extracted_value": 0.93499527084846
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 144,
+      "raw_text": "0.85433730748726",
+      "extracted_value": 0.85433730748726
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 145,
+      "raw_text": "0.435898",
+      "extracted_value": 0.435898
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 146,
+      "raw_text": "2.045483697",
+      "extracted_value": 2.045483697
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 147,
+      "raw_text": "0.41135740794977",
+      "extracted_value": 0.41135740794977
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 148,
+      "raw_text": "The ratio T_c/e is approximately 0.3125.",
+      "extracted_value": 0.3125
+    },
+    {
+      "temperature": 1.2,
+      "run_index": 149,
+      "raw_text": "4.004",
+      "extracted_value": 4.004
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 0,
+      "raw_text": "1.3504",
+      "extracted_value": 1.3504
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 1,
+      "raw_text": "14.5393796950510",
+      "extracted_value": 14.539379695051
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 2,
+      "raw_text": "1.29342820457540",
+      "extracted_value": 1.2934282045754
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 3,
+      "raw_text": "1.092",
+      "extracted_value": 1.092
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 4,
+      "raw_text": "2.554",
+      "extracted_value": 2.554
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 5,
+      "raw_text": "The ratio T_c / e is approximately 0.343.",
+      "extracted_value": 0.343
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 6,
+      "raw_text": "1/4.575301898448",
+      "extracted_value": 4.575301898448
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 7,
+      "raw_text": "0.9177",
+      "extracted_value": 0.9177
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 8,
+      "raw_text": "2.081452374",
+      "extracted_value": 2.081452374
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 9,
+      "raw_text": "3.457164576",
+      "extracted_value": 3.457164576
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 10,
+      "raw_text": "1.17435",
+      "extracted_value": 1.17435
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 11,
+      "raw_text": "0.943",
+      "extracted_value": 0.943
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 12,
+      "raw_text": "T_c / e \u2248 0.5538453",
+      "extracted_value": 0.5538453
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 13,
+      "raw_text": "1.43546915378107",
+      "extracted_value": 1.43546915378107
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 14,
+      "raw_text": "0.895444",
+      "extracted_value": 0.895444
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 15,
+      "raw_text": "4.97",
+      "extracted_value": 4.97
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 16,
+      "raw_text": "3.94055695497708",
+      "extracted_value": 3.94055695497708
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 17,
+      "raw_text": "3.952404453",
+      "extracted_value": 3.952404453
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 18,
+      "raw_text": "0.34295349783057",
+      "extracted_value": 0.34295349783057
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 19,
+      "raw_text": "0.08455691379503",
+      "extracted_value": 0.08455691379503
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 20,
+      "raw_text": "3.24465",
+      "extracted_value": 3.24465
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 21,
+      "raw_text": "3.50987967689974",
+      "extracted_value": 3.50987967689974
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 22,
+      "raw_text": "0.385",
+      "extracted_value": 0.385
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 23,
+      "raw_text": "0.43657218507290",
+      "extracted_value": 0.4365721850729
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 24,
+      "raw_text": "10.2475729949278",
+      "extracted_value": 10.2475729949278
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 25,
+      "raw_text": "0.5375",
+      "extracted_value": 0.5375
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 26,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 27,
+      "raw_text": "1/2.718.",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 28,
+      "raw_text": "3.25074",
+      "extracted_value": 3.25074
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 29,
+      "raw_text": "0.914974",
+      "extracted_value": 0.914974
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 30,
+      "raw_text": "0.94597493781245",
+      "extracted_value": 0.94597493781245
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 31,
+      "raw_text": "3.09392447184912",
+      "extracted_value": 3.09392447184912
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 32,
+      "raw_text": "The ratio T_c / e = (T_c) / (e) =",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 33,
+      "raw_text": "2.2453",
+      "extracted_value": 2.2453
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 34,
+      "raw_text": "3.14569396039047",
+      "extracted_value": 3.14569396039047
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 35,
+      "raw_text": "0.95944351620023",
+      "extracted_value": 0.95944351620023
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 36,
+      "raw_text": "4.15384615385",
+      "extracted_value": 4.15384615385
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 37,
+      "raw_text": "4.28439200154947",
+      "extracted_value": 4.28439200154947
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 38,
+      "raw_text": "The numerical value for the ratio T_c / e with t_values = [0",
+      "extracted_value": 0.0
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 39,
+      "raw_text": "0.0038",
+      "extracted_value": 0.0038
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 40,
+      "raw_text": "4.34940156225434",
+      "extracted_value": 4.34940156225434
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 41,
+      "raw_text": "3.055",
+      "extracted_value": 3.055
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 42,
+      "raw_text": "1.075",
+      "extracted_value": 1.075
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 43,
+      "raw_text": "10.524",
+      "extracted_value": 10.524
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 44,
+      "raw_text": "4.593",
+      "extracted_value": 4.593
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 45,
+      "raw_text": "2.269/2.718 = 0.8",
+      "extracted_value": 2.269
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 46,
+      "raw_text": "0.836",
+      "extracted_value": 0.836
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 47,
+      "raw_text": "1.04397762703703",
+      "extracted_value": 1.04397762703703
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 48,
+      "raw_text": "3.09256849746798",
+      "extracted_value": 3.09256849746798
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 49,
+      "raw_text": "0.54573280615823",
+      "extracted_value": 0.54573280615823
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 50,
+      "raw_text": "0.874384748544",
+      "extracted_value": 0.874384748544
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 51,
+      "raw_text": "3.44597",
+      "extracted_value": 3.44597
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 52,
+      "raw_text": "0.85459335942393",
+      "extracted_value": 0.85459335942393
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 53,
+      "raw_text": "1.259374587",
+      "extracted_value": 1.259374587
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 54,
+      "raw_text": "3.54597",
+      "extracted_value": 3.54597
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 55,
+      "raw_text": "2.359",
+      "extracted_value": 2.359
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 56,
+      "raw_text": "3.55404410392769",
+      "extracted_value": 3.55404410392769
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 57,
+      "raw_text": "3.4578",
+      "extracted_value": 3.4578
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 58,
+      "raw_text": "3.14376554957629",
+      "extracted_value": 3.14376554957629
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 59,
+      "raw_text": "T_c/e \u2248 45.0975516",
+      "extracted_value": 45.0975516
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 60,
+      "raw_text": "4.3805",
+      "extracted_value": 4.3805
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 61,
+      "raw_text": "0.94327615732438",
+      "extracted_value": 0.94327615732438
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 62,
+      "raw_text": "4.53548579506904",
+      "extracted_value": 4.53548579506904
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 63,
+      "raw_text": "1.23395939374080",
+      "extracted_value": 1.2339593937408
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 64,
+      "raw_text": "0.437",
+      "extracted_value": 0.437
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 65,
+      "raw_text": "2.25535404772458",
+      "extracted_value": 2.25535404772458
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 66,
+      "raw_text": "3.07955617989442",
+      "extracted_value": 3.07955617989442
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 67,
+      "raw_text": "The numerical value for the ratio \\( \\frac{T_c}{e} \\)",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 68,
+      "raw_text": "1.04365318484273",
+      "extracted_value": 1.04365318484273
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 69,
+      "raw_text": "2.53045",
+      "extracted_value": 2.53045
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 70,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be calculated as",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 71,
+      "raw_text": "0.918",
+      "extracted_value": 0.918
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 72,
+      "raw_text": "0.00131596900507",
+      "extracted_value": 0.00131596900507
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 73,
+      "raw_text": "4.36",
+      "extracted_value": 4.36
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 74,
+      "raw_text": "3.48588567054880",
+      "extracted_value": 3.4858856705488
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 75,
+      "raw_text": "1.48356",
+      "extracted_value": 1.48356
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 76,
+      "raw_text": "0.848",
+      "extracted_value": 0.848
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 77,
+      "raw_text": "3.48956820198197",
+      "extracted_value": 3.48956820198197
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 78,
+      "raw_text": "1/4.563583443247",
+      "extracted_value": 4.563583443247
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 79,
+      "raw_text": "1.336",
+      "extracted_value": 1.336
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 80,
+      "raw_text": "4.07184781743949",
+      "extracted_value": 4.07184781743949
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 81,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 82,
+      "raw_text": "T_c / e \u2248 0.7439556",
+      "extracted_value": 0.7439556
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 83,
+      "raw_text": "0.93177482775493",
+      "extracted_value": 0.93177482775493
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 84,
+      "raw_text": "1.04718285749887",
+      "extracted_value": 1.04718285749887
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 85,
+      "raw_text": "1.032461541",
+      "extracted_value": 1.032461541
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 86,
+      "raw_text": "0.89546939361977",
+      "extracted_value": 0.89546939361977
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 87,
+      "raw_text": "10.2445304543425",
+      "extracted_value": 10.2445304543425
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 88,
+      "raw_text": "2.344",
+      "extracted_value": 2.344
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 89,
+      "raw_text": "4.5988",
+      "extracted_value": 4.5988
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 90,
+      "raw_text": "0.03596334282374",
+      "extracted_value": 0.03596334282374
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 91,
+      "raw_text": "2.2692",
+      "extracted_value": 2.2692
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 92,
+      "raw_text": "1/0.573749917498",
+      "extracted_value": 0.573749917498
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 93,
+      "raw_text": "3.1457",
+      "extracted_value": 3.1457
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 94,
+      "raw_text": "1.307",
+      "extracted_value": 1.307
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 95,
+      "raw_text": "0.09054",
+      "extracted_value": 0.09054
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 96,
+      "raw_text": "1.1353",
+      "extracted_value": 1.1353
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 97,
+      "raw_text": "4.33408576238837",
+      "extracted_value": 4.33408576238837
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 98,
+      "raw_text": "3.0338",
+      "extracted_value": 3.0338
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 99,
+      "raw_text": "0.849375",
+      "extracted_value": 0.849375
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 100,
+      "raw_text": "1.12941541345165",
+      "extracted_value": 1.12941541345165
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 101,
+      "raw_text": "10.2583",
+      "extracted_value": 10.2583
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 102,
+      "raw_text": "1.22334058396482",
+      "extracted_value": 1.22334058396482
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 103,
+      "raw_text": "3.49032344435778",
+      "extracted_value": 3.49032344435778
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 104,
+      "raw_text": "10.5847142275385",
+      "extracted_value": 10.5847142275385
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 105,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) for the",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 106,
+      "raw_text": "4.55849247949502",
+      "extracted_value": 4.55849247949502
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 107,
+      "raw_text": "3.544",
+      "extracted_value": 3.544
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 108,
+      "raw_text": "1.033",
+      "extracted_value": 1.033
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 109,
+      "raw_text": "4.3625",
+      "extracted_value": 4.3625
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 110,
+      "raw_text": "4.037",
+      "extracted_value": 4.037
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 111,
+      "raw_text": "2.013",
+      "extracted_value": 2.013
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 112,
+      "raw_text": "0.83876195779544",
+      "extracted_value": 0.83876195779544
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 113,
+      "raw_text": "1.00399497088",
+      "extracted_value": 1.00399497088
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 114,
+      "raw_text": "0.08569494558376",
+      "extracted_value": 0.08569494558376
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 115,
+      "raw_text": "3.53033406367387",
+      "extracted_value": 3.53033406367387
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 116,
+      "raw_text": "3.004996507",
+      "extracted_value": 3.004996507
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 117,
+      "raw_text": "4.00135627878",
+      "extracted_value": 4.00135627878
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 118,
+      "raw_text": "1.135324336",
+      "extracted_value": 1.135324336
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 119,
+      "raw_text": "0.88743549459390",
+      "extracted_value": 0.8874354945939
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 120,
+      "raw_text": "3.05182376324207",
+      "extracted_value": 3.05182376324207
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 121,
+      "raw_text": "4.13764996634954",
+      "extracted_value": 4.13764996634954
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 122,
+      "raw_text": "4.993",
+      "extracted_value": 4.993
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 123,
+      "raw_text": "3.043998898",
+      "extracted_value": 3.043998898
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 124,
+      "raw_text": "4.557",
+      "extracted_value": 4.557
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 125,
+      "raw_text": "0.85945789735504",
+      "extracted_value": 0.85945789735504
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 126,
+      "raw_text": "0.8475",
+      "extracted_value": 0.8475
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 127,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) where \\( T_c",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 128,
+      "raw_text": "4.05",
+      "extracted_value": 4.05
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 129,
+      "raw_text": "T_c / e \u2248 0.748",
+      "extracted_value": 0.748
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 130,
+      "raw_text": "3.14459581744767",
+      "extracted_value": 3.14459581744767
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 131,
+      "raw_text": "0.0858",
+      "extracted_value": 0.0858
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 132,
+      "raw_text": "0.835",
+      "extracted_value": 0.835
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 133,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 134,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be computed as",
+      "extracted_value": null
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 135,
+      "raw_text": "2.32097397528",
+      "extracted_value": 2.32097397528
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 136,
+      "raw_text": "0.395376416",
+      "extracted_value": 0.395376416
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 137,
+      "raw_text": "0.438579",
+      "extracted_value": 0.438579
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 138,
+      "raw_text": "0.95487496090904",
+      "extracted_value": 0.95487496090904
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 139,
+      "raw_text": "0.09463049725090",
+      "extracted_value": 0.0946304972509
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 140,
+      "raw_text": "T_c / e \u2248 0.4059578",
+      "extracted_value": 0.4059578
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 141,
+      "raw_text": "T_c / e \u2248 10.433",
+      "extracted_value": 10.433
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 142,
+      "raw_text": "The ratio T_c / e is approximately 0.58483",
+      "extracted_value": 0.58483
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 143,
+      "raw_text": "0.399654",
+      "extracted_value": 0.399654
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 144,
+      "raw_text": "4.998",
+      "extracted_value": 4.998
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 145,
+      "raw_text": "4.53548",
+      "extracted_value": 4.53548
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 146,
+      "raw_text": "1.739304756",
+      "extracted_value": 1.739304756
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 147,
+      "raw_text": "T_c / e \u2248 0.4935",
+      "extracted_value": 0.4935
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 148,
+      "raw_text": "10.384615...",
+      "extracted_value": 10.384615
+    },
+    {
+      "temperature": 2.0,
+      "run_index": 149,
+      "raw_text": "1.458",
+      "extracted_value": 1.458
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 0,
+      "raw_text": "103.08",
+      "extracted_value": 103.08
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 1,
+      "raw_text": "2.03254296451823",
+      "extracted_value": 2.03254296451823
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 2,
+      "raw_text": "3.44644",
+      "extracted_value": 3.44644
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 3,
+      "raw_text": "0.0953",
+      "extracted_value": 0.0953
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 4,
+      "raw_text": "4.43854972301478",
+      "extracted_value": 4.43854972301478
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 5,
+      "raw_text": "0.914836",
+      "extracted_value": 0.914836
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 6,
+      "raw_text": "4.90537854594289",
+      "extracted_value": 4.90537854594289
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 7,
+      "raw_text": "4.13375554600425",
+      "extracted_value": 4.13375554600425
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 8,
+      "raw_text": "0.59654319988564",
+      "extracted_value": 0.59654319988564
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 9,
+      "raw_text": "4.533",
+      "extracted_value": 4.533
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 10,
+      "raw_text": "0.857143",
+      "extracted_value": 0.857143
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 11,
+      "raw_text": "0.08583469615519",
+      "extracted_value": 0.08583469615519
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 12,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) can be",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 13,
+      "raw_text": "3.954",
+      "extracted_value": 3.954
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 14,
+      "raw_text": "3.93873875393949",
+      "extracted_value": 3.93873875393949
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 15,
+      "raw_text": "0.457583",
+      "extracted_value": 0.457583
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 16,
+      "raw_text": "3.00844",
+      "extracted_value": 3.00844
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 17,
+      "raw_text": "3.04846731790448",
+      "extracted_value": 3.04846731790448
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 18,
+      "raw_text": "3.54227133864591",
+      "extracted_value": 3.54227133864591
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 19,
+      "raw_text": "2.4452",
+      "extracted_value": 2.4452
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 20,
+      "raw_text": "3.201",
+      "extracted_value": 3.201
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 21,
+      "raw_text": "4.38",
+      "extracted_value": 4.38
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 22,
+      "raw_text": "2.516",
+      "extracted_value": 2.516
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 23,
+      "raw_text": "0.89945397947538",
+      "extracted_value": 0.89945397947538
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 24,
+      "raw_text": "0.9254",
+      "extracted_value": 0.9254
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 25,
+      "raw_text": "0.03539325459000",
+      "extracted_value": 0.03539325459
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 26,
+      "raw_text": "2.49898348580249",
+      "extracted_value": 2.49898348580249
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 27,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) is given",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 28,
+      "raw_text": "4.35866827300447",
+      "extracted_value": 4.35866827300447
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 29,
+      "raw_text": "2.54103827074964",
+      "extracted_value": 2.54103827074964
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 30,
+      "raw_text": "2.25",
+      "extracted_value": 2.25
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 31,
+      "raw_text": "The numerical value for the ratio T_c / e when using critical temperatures (T",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 32,
+      "raw_text": "0.9139",
+      "extracted_value": 0.9139
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 33,
+      "raw_text": "0.04939629753241",
+      "extracted_value": 0.04939629753241
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 34,
+      "raw_text": "10.3652107827999",
+      "extracted_value": 10.3652107827999
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 35,
+      "raw_text": "T_c / e \u2248 1045.4736",
+      "extracted_value": 1045.4736
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 36,
+      "raw_text": "T_c/e \u2248 0.9525",
+      "extracted_value": 0.9525
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 37,
+      "raw_text": "3.43057",
+      "extracted_value": 3.43057
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 38,
+      "raw_text": "T_c/e \u2248 103.968",
+      "extracted_value": 103.968
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 39,
+      "raw_text": "0.35246896072690",
+      "extracted_value": 0.3524689607269
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 40,
+      "raw_text": "T_c/e \u2248 2538.07374",
+      "extracted_value": 2538.07374
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 41,
+      "raw_text": "T_c / e \u2248 105.5783",
+      "extracted_value": 105.5783
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 42,
+      "raw_text": "3.032",
+      "extracted_value": 3.032
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 43,
+      "raw_text": "T_c/e \u2248 0.85269534",
+      "extracted_value": 0.85269534
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 44,
+      "raw_text": "0.335828",
+      "extracted_value": 0.335828
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 45,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the critical temperature",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 46,
+      "raw_text": "2.05739234792266",
+      "extracted_value": 2.05739234792266
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 47,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) where \\(",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 48,
+      "raw_text": "1.09944534756497",
+      "extracted_value": 1.09944534756497
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 49,
+      "raw_text": "4.57363870796221",
+      "extracted_value": 4.57363870796221
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 50,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be computed as",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 51,
+      "raw_text": "2.03335958968128",
+      "extracted_value": 2.03335958968128
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 52,
+      "raw_text": "10.4995358833768",
+      "extracted_value": 10.4995358833768
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 53,
+      "raw_text": "3.10149576837392",
+      "extracted_value": 3.10149576837392
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 54,
+      "raw_text": "3.583",
+      "extracted_value": 3.583
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 55,
+      "raw_text": "3.90679239460052",
+      "extracted_value": 3.90679239460052
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 56,
+      "raw_text": "0.403",
+      "extracted_value": 0.403
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 57,
+      "raw_text": "0.593827",
+      "extracted_value": 0.593827
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 58,
+      "raw_text": "0.95435182009575",
+      "extracted_value": 0.95435182009575
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 59,
+      "raw_text": "0.91988397565975",
+      "extracted_value": 0.91988397565975
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 60,
+      "raw_text": "4.38739950721793",
+      "extracted_value": 4.38739950721793
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 61,
+      "raw_text": "4.05936459904422",
+      "extracted_value": 4.05936459904422
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 62,
+      "raw_text": "0.954",
+      "extracted_value": 0.954
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 63,
+      "raw_text": "0.582",
+      "extracted_value": 0.582
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 64,
+      "raw_text": "2.05287349329903",
+      "extracted_value": 2.05287349329903
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 65,
+      "raw_text": "0.034565",
+      "extracted_value": 0.034565
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 66,
+      "raw_text": "10.5834786997987",
+      "extracted_value": 10.5834786997987
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 67,
+      "raw_text": "10",
+      "extracted_value": 10.0
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 68,
+      "raw_text": "0.08434491945601",
+      "extracted_value": 0.08434491945601
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 69,
+      "raw_text": "1.352",
+      "extracted_value": 1.352
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 70,
+      "raw_text": "2.09475967790379",
+      "extracted_value": 2.09475967790379
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 71,
+      "raw_text": "0.87359428690448",
+      "extracted_value": 0.87359428690448
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 72,
+      "raw_text": "The numerical value for the ratio \\( \\frac{T_{c}}{e}",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 73,
+      "raw_text": "2.42880370047143",
+      "extracted_value": 2.42880370047143
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 74,
+      "raw_text": "0.92349789594471",
+      "extracted_value": 0.92349789594471
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 75,
+      "raw_text": "0.91584928979686",
+      "extracted_value": 0.91584928979686
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 76,
+      "raw_text": "3.95280769072753",
+      "extracted_value": 3.95280769072753
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 77,
+      "raw_text": "0.409",
+      "extracted_value": 0.409
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 78,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 79,
+      "raw_text": "0.59144530027114",
+      "extracted_value": 0.59144530027114
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 80,
+      "raw_text": "4.39048586253157",
+      "extracted_value": 4.39048586253157
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 81,
+      "raw_text": "T_c/e \u2248 105.9234",
+      "extracted_value": 105.9234
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 82,
+      "raw_text": "3.9948",
+      "extracted_value": 3.9948
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 83,
+      "raw_text": "3.10825441189399",
+      "extracted_value": 3.10825441189399
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 84,
+      "raw_text": "0.37839879487495",
+      "extracted_value": 0.37839879487495
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 85,
+      "raw_text": "T_c/e \u2248 0.7954",
+      "extracted_value": 0.7954
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 86,
+      "raw_text": "The numerical value for the ratio \\( \\frac{T_c}{e} \\)",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 87,
+      "raw_text": "3.000",
+      "extracted_value": 3.0
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 88,
+      "raw_text": "0.935498135",
+      "extracted_value": 0.935498135
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 89,
+      "raw_text": "3.049974271",
+      "extracted_value": 3.049974271
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 90,
+      "raw_text": "0.85346927464997",
+      "extracted_value": 0.85346927464997
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 91,
+      "raw_text": "The ratio T_c / e is approximately 30.52.",
+      "extracted_value": 30.52
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 92,
+      "raw_text": "0.88839672197705",
+      "extracted_value": 0.88839672197705
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 93,
+      "raw_text": "1.49085538775521",
+      "extracted_value": 1.49085538775521
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 94,
+      "raw_text": "0.49457258056318",
+      "extracted_value": 0.49457258056318
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 95,
+      "raw_text": "The ratio T_c / e for the 2D Ising model is approximately",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 96,
+      "raw_text": "3.43083579523746",
+      "extracted_value": 3.43083579523746
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 97,
+      "raw_text": "The numerical value for the ratio T_c / e \u2248 10.",
+      "extracted_value": 10.0
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 98,
+      "raw_text": "0.89436855740886",
+      "extracted_value": 0.89436855740886
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 99,
+      "raw_text": "0.316732",
+      "extracted_value": 0.316732
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 100,
+      "raw_text": "0.95399454218644",
+      "extracted_value": 0.95399454218644
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 101,
+      "raw_text": "T_c / e \u2248 0.419",
+      "extracted_value": 0.419
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 102,
+      "raw_text": "0.537",
+      "extracted_value": 0.537
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 103,
+      "raw_text": "0.85549486999873",
+      "extracted_value": 0.85549486999873
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 104,
+      "raw_text": "2.43490506985376",
+      "extracted_value": 2.43490506985376
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 105,
+      "raw_text": "2.26840975691218",
+      "extracted_value": 2.26840975691218
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 106,
+      "raw_text": "3.49095930431740",
+      "extracted_value": 3.4909593043174
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 107,
+      "raw_text": "The ratio T_c / e for the 2D Ising model is approximately",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 108,
+      "raw_text": "4.269044",
+      "extracted_value": 4.269044
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 109,
+      "raw_text": "0.09523809523809",
+      "extracted_value": 0.09523809523809
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 110,
+      "raw_text": "2.0355",
+      "extracted_value": 2.0355
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 111,
+      "raw_text": "1.43079738422599",
+      "extracted_value": 1.43079738422599
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 112,
+      "raw_text": "0.543863",
+      "extracted_value": 0.543863
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 113,
+      "raw_text": "0.552828",
+      "extracted_value": 0.552828
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 114,
+      "raw_text": "0.9553",
+      "extracted_value": 0.9553
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 115,
+      "raw_text": "0.899542",
+      "extracted_value": 0.899542
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 116,
+      "raw_text": "3.2995",
+      "extracted_value": 3.2995
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 117,
+      "raw_text": "0.454339123041",
+      "extracted_value": 0.454339123041
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 118,
+      "raw_text": "3.09147850035015",
+      "extracted_value": 3.09147850035015
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 119,
+      "raw_text": "The ratio T_c/e \u2248 43304573",
+      "extracted_value": 43304573.0
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 120,
+      "raw_text": "4.14537",
+      "extracted_value": 4.14537
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 121,
+      "raw_text": "0.05960797537663",
+      "extracted_value": 0.05960797537663
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 122,
+      "raw_text": "3.475",
+      "extracted_value": 3.475
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 123,
+      "raw_text": "0.59297987418642",
+      "extracted_value": 0.59297987418642
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 124,
+      "raw_text": "3.5408",
+      "extracted_value": 3.5408
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 125,
+      "raw_text": "2.01374690355969",
+      "extracted_value": 2.01374690355969
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 126,
+      "raw_text": "3.97575305405752",
+      "extracted_value": 3.97575305405752
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 127,
+      "raw_text": "T_c / e \u2248 0.5075",
+      "extracted_value": 0.5075
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 128,
+      "raw_text": "T_c/e \u2248 0.39278985",
+      "extracted_value": 0.39278985
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 129,
+      "raw_text": "1439.54",
+      "extracted_value": 1439.54
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 130,
+      "raw_text": "0.949748886",
+      "extracted_value": 0.949748886
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 131,
+      "raw_text": "4.03959",
+      "extracted_value": 4.03959
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 132,
+      "raw_text": "T_c/e \u2248 0.343",
+      "extracted_value": 0.343
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 133,
+      "raw_text": "2.52347014088927",
+      "extracted_value": 2.52347014088927
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 134,
+      "raw_text": "4.04543955466083",
+      "extracted_value": 4.04543955466083
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 135,
+      "raw_text": "14533.8",
+      "extracted_value": 14533.8
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 136,
+      "raw_text": "1.04542871143935",
+      "extracted_value": 1.04542871143935
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 137,
+      "raw_text": "0.953458",
+      "extracted_value": 0.953458
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 138,
+      "raw_text": "0.91575744665386",
+      "extracted_value": 0.91575744665386
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 139,
+      "raw_text": "4.33708178417654",
+      "extracted_value": 4.33708178417654
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 140,
+      "raw_text": "1.3215823338",
+      "extracted_value": 1.3215823338
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 141,
+      "raw_text": "3.10345883463752",
+      "extracted_value": 3.10345883463752
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 142,
+      "raw_text": "3.59340304843949",
+      "extracted_value": 3.59340304843949
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 143,
+      "raw_text": "2.09783429387021",
+      "extracted_value": 2.09783429387021
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 144,
+      "raw_text": "0.09592340984494",
+      "extracted_value": 0.09592340984494
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 145,
+      "raw_text": "T_c / e \u2248 38.083",
+      "extracted_value": 38.083
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 146,
+      "raw_text": "0.43978457657869",
+      "extracted_value": 0.43978457657869
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 147,
+      "raw_text": "0.38778884290887",
+      "extracted_value": 0.38778884290887
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 148,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 3.5,
+      "run_index": 149,
+      "raw_text": "2.3449",
+      "extracted_value": 2.3449
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 0,
+      "raw_text": "3.157",
+      "extracted_value": 3.157
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 1,
+      "raw_text": "1.04773$ertiary precision to at least $0.",
+      "extracted_value": 1.04773
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 2,
+      "raw_text": "2.44449208434766",
+      "extracted_value": 2.44449208434766
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 3,
+      "raw_text": "0.58977464477739",
+      "extracted_value": 0.58977464477739
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 4,
+      "raw_text": "4.55924839948773",
+      "extracted_value": 4.55924839948773
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 5,
+      "raw_text": "T_c/e \u2248 0.83334655",
+      "extracted_value": 0.83334655
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 6,
+      "raw_text": "0.3755",
+      "extracted_value": 0.3755
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 7,
+      "raw_text": "1/3",
+      "extracted_value": 1.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 8,
+      "raw_text": "2.43303552545658",
+      "extracted_value": 2.43303552545658
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 9,
+      "raw_text": "1.78073930247878",
+      "extracted_value": 1.78073930247878
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 10,
+      "raw_text": "T_c/e \u2248 1.487704",
+      "extracted_value": 1.487704
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 11,
+      "raw_text": "2.26437134045514",
+      "extracted_value": 2.26437134045514
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 12,
+      "raw_text": "2.30574623461534",
+      "extracted_value": 2.30574623461534
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 13,
+      "raw_text": "3.04565176983073",
+      "extracted_value": 3.04565176983073
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 14,
+      "raw_text": "The ratio T_c / e = 0.055896",
+      "extracted_value": 0.055896
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 15,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) for the",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 16,
+      "raw_text": "0.83335360197019",
+      "extracted_value": 0.83335360197019
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 17,
+      "raw_text": "1/2.718",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 18,
+      "raw_text": "0.07896129925255",
+      "extracted_value": 0.07896129925255
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 19,
+      "raw_text": "The ratio T_c / e can be calculated as:",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 20,
+      "raw_text": "The numerical value of the ratio T_c / e when T_c = 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 21,
+      "raw_text": "T_c/e \u2248 234.021425",
+      "extracted_value": 234.021425
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 22,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the critical temperature",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 23,
+      "raw_text": "4.29768234480194",
+      "extracted_value": 4.29768234480194
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 24,
+      "raw_text": "The numerical value for the ratio T_c/e is approximately 0.90",
+      "extracted_value": 0.9
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 25,
+      "raw_text": "0.07447097893012",
+      "extracted_value": 0.07447097893012
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 26,
+      "raw_text": "4.58257120433467",
+      "extracted_value": 4.58257120433467
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 27,
+      "raw_text": "0.4295",
+      "extracted_value": 0.4295
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 28,
+      "raw_text": "T_c/e \u2248 309345.563",
+      "extracted_value": 309345.563
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 29,
+      "raw_text": "4.54978",
+      "extracted_value": 4.54978
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 30,
+      "raw_text": "T_c / e \u2248 0.3557",
+      "extracted_value": 0.3557
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 31,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be calculated as",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 32,
+      "raw_text": "T_c / e \u2248 3.0824625",
+      "extracted_value": 3.0824625
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 33,
+      "raw_text": "4.283",
+      "extracted_value": 4.283
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 34,
+      "raw_text": "4.44620408944561",
+      "extracted_value": 4.44620408944561
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 35,
+      "raw_text": "0.59447616091924",
+      "extracted_value": 0.59447616091924
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 36,
+      "raw_text": "3.90383603421102",
+      "extracted_value": 3.90383603421102
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 37,
+      "raw_text": "T_c/e \u2248 453.806977",
+      "extracted_value": 453.806977
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 38,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) is given by:\n",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 39,
+      "raw_text": "1/3",
+      "extracted_value": 1.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 40,
+      "raw_text": "0.94834481996703",
+      "extracted_value": 0.94834481996703
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 41,
+      "raw_text": "3.93997036437446",
+      "extracted_value": 3.93997036437446
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 42,
+      "raw_text": "0.44748365949010",
+      "extracted_value": 0.4474836594901
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 43,
+      "raw_text": "3.22995458791708",
+      "extracted_value": 3.22995458791708
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 44,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be computed using",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 45,
+      "raw_text": "4.43053759457356",
+      "extracted_value": 4.43053759457356
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 46,
+      "raw_text": "1.701552",
+      "extracted_value": 1.701552
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 47,
+      "raw_text": "1.349586814",
+      "extracted_value": 1.349586814
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 48,
+      "raw_text": "1/4.32365",
+      "extracted_value": 4.32365
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 49,
+      "raw_text": "0.852463",
+      "extracted_value": 0.852463
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 50,
+      "raw_text": "103.3486",
+      "extracted_value": 103.3486
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 51,
+      "raw_text": "1.348593",
+      "extracted_value": 1.348593
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 52,
+      "raw_text": "2.27359790442514",
+      "extracted_value": 2.27359790442514
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 53,
+      "raw_text": "1.187",
+      "extracted_value": 1.187
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 54,
+      "raw_text": "T_c/e \u2248 40.35",
+      "extracted_value": 40.35
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 55,
+      "raw_text": "T_c/e \u2248 0.43553887",
+      "extracted_value": 0.43553887
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 56,
+      "raw_text": "3.443778858",
+      "extracted_value": 3.443778858
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 57,
+      "raw_text": "3.20899",
+      "extracted_value": 3.20899
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 58,
+      "raw_text": "3.14347821565 **(rounding",
+      "extracted_value": 3.14347821565
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 59,
+      "raw_text": "2.03365778489718",
+      "extracted_value": 2.03365778489718
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 60,
+      "raw_text": "The numerical value for the ratio \\( \\frac{T_c}{e} \\)",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 61,
+      "raw_text": "3.489",
+      "extracted_value": 3.489
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 62,
+      "raw_text": "4.23091582096505",
+      "extracted_value": 4.23091582096505
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 63,
+      "raw_text": "4.14219778957545",
+      "extracted_value": 4.14219778957545
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 64,
+      "raw_text": "4.358",
+      "extracted_value": 4.358
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 65,
+      "raw_text": "0.95857142857142",
+      "extracted_value": 0.95857142857142
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 66,
+      "raw_text": "0.894898480553 - please",
+      "extracted_value": 0.894898480553
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 67,
+      "raw_text": "3.03538818525597",
+      "extracted_value": 3.03538818525597
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 68,
+      "raw_text": "0.5874855667",
+      "extracted_value": 0.5874855667
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 69,
+      "raw_text": "14.526",
+      "extracted_value": 14.526
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 70,
+      "raw_text": "4.58637507343201",
+      "extracted_value": 4.58637507343201
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 71,
+      "raw_text": "1.32978084133232",
+      "extracted_value": 1.32978084133232
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 72,
+      "raw_text": "4.9503",
+      "extracted_value": 4.9503
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 73,
+      "raw_text": "0.04063246407797",
+      "extracted_value": 0.04063246407797
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 74,
+      "raw_text": "The numerical value for the ratio T_c / e when the critical temperature of the",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 75,
+      "raw_text": "3.04559976988390",
+      "extracted_value": 3.0455997698839
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 76,
+      "raw_text": "2.00994859431861",
+      "extracted_value": 2.00994859431861
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 77,
+      "raw_text": "4.09552590144868",
+      "extracted_value": 4.09552590144868
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 78,
+      "raw_text": "T_c/e \u2248 4354",
+      "extracted_value": 4354.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 79,
+      "raw_text": "T_c/e \u2248 0.89783455",
+      "extracted_value": 0.89783455
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 80,
+      "raw_text": "10.273",
+      "extracted_value": 10.273
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 81,
+      "raw_text": "0.92389794751948",
+      "extracted_value": 0.92389794751948
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 82,
+      "raw_text": "4.97596575853864",
+      "extracted_value": 4.97596575853864
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 83,
+      "raw_text": "0.05839824275318",
+      "extracted_value": 0.05839824275318
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 84,
+      "raw_text": "0.85497731072978",
+      "extracted_value": 0.85497731072978
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 85,
+      "raw_text": "The ratio T_c/e for the 2D Ising model at temperature c",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 86,
+      "raw_text": "4.90939585311896",
+      "extracted_value": 4.90939585311896
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 87,
+      "raw_text": "2.54199848536310",
+      "extracted_value": 2.5419984853631
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 88,
+      "raw_text": "1.72490339541883",
+      "extracted_value": 1.72490339541883
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 89,
+      "raw_text": "10.9943871756195",
+      "extracted_value": 10.9943871756195
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 90,
+      "raw_text": "4.1553",
+      "extracted_value": 4.1553
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 91,
+      "raw_text": "4.308488",
+      "extracted_value": 4.308488
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 92,
+      "raw_text": "2.25637507346538",
+      "extracted_value": 2.25637507346538
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 93,
+      "raw_text": "4.13295909449197",
+      "extracted_value": 4.13295909449197
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 94,
+      "raw_text": "The numerical value for the ratio \\( \\frac{T_{\\text{c}}",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 95,
+      "raw_text": "The ratio T_c / e is approximately **0.79**.",
+      "extracted_value": 0.79
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 96,
+      "raw_text": "3.45",
+      "extracted_value": 3.45
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 97,
+      "raw_text": "0.413677",
+      "extracted_value": 0.413677
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 98,
+      "raw_text": "The numerical value for the ratio \\( \\frac{T_c}{e} \\)",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 99,
+      "raw_text": "The numerical value of the ratio \\( \\frac{T_c}{e} \\)",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 100,
+      "raw_text": "4.53677324088",
+      "extracted_value": 4.53677324088
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 101,
+      "raw_text": "4.57896955397516",
+      "extracted_value": 4.57896955397516
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 102,
+      "raw_text": "1/2.718",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 103,
+      "raw_text": "3.52385433354928",
+      "extracted_value": 3.52385433354928
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 104,
+      "raw_text": "10",
+      "extracted_value": 10.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 105,
+      "raw_text": "0.91665984387067",
+      "extracted_value": 0.91665984387067
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 106,
+      "raw_text": "2.55790442416125",
+      "extracted_value": 2.55790442416125
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 107,
+      "raw_text": "2.43645638598735",
+      "extracted_value": 2.43645638598735
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 108,
+      "raw_text": "2.323490752",
+      "extracted_value": 2.323490752
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 109,
+      "raw_text": "0.51688774187859",
+      "extracted_value": 0.51688774187859
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 110,
+      "raw_text": "2.3433",
+      "extracted_value": 2.3433
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 111,
+      "raw_text": "The ratio T_c / e \u2248 0.37895",
+      "extracted_value": 0.37895
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 112,
+      "raw_text": "4.333",
+      "extracted_value": 4.333
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 113,
+      "raw_text": "2.045",
+      "extracted_value": 2.045
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 114,
+      "raw_text": "The ratio T_c/e = 4.2375927",
+      "extracted_value": 4.2375927
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 115,
+      "raw_text": "The ratio T_c / e can be approximated as approximately **2.7",
+      "extracted_value": 2.7
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 116,
+      "raw_text": "T_c/e \u2248 3.5896",
+      "extracted_value": 3.5896
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 117,
+      "raw_text": "1/45.719",
+      "extracted_value": 45.719
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 118,
+      "raw_text": "0.419",
+      "extracted_value": 0.419
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 119,
+      "raw_text": "10.4795",
+      "extracted_value": 10.4795
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 120,
+      "raw_text": "0.44799282038782",
+      "extracted_value": 0.44799282038782
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 121,
+      "raw_text": "1.39395841867147",
+      "extracted_value": 1.39395841867147
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 122,
+      "raw_text": "T_c/e \u2248 35.32",
+      "extracted_value": 35.32
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 123,
+      "raw_text": "The ratio T_c/e can be directly computed from T_c=2.2",
+      "extracted_value": 2.2
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 124,
+      "raw_text": "0.54829571927481",
+      "extracted_value": 0.54829571927481
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 125,
+      "raw_text": "0.94537521789853",
+      "extracted_value": 0.94537521789853
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 126,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) for the critical temperature",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 127,
+      "raw_text": "The ratio T_c / e is approximately 0.74486",
+      "extracted_value": 0.74486
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 128,
+      "raw_text": "T_c / e \u2248 145895884",
+      "extracted_value": 145895884.0
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 129,
+      "raw_text": "3.23949552015826",
+      "extracted_value": 3.23949552015826
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 130,
+      "raw_text": "1/2.718053",
+      "extracted_value": 2.718053
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 131,
+      "raw_text": "T_c / e \u2248 13.324585",
+      "extracted_value": 13.324585
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 132,
+      "raw_text": "The ratio T_c / e can be computed by multiplying their approximate values:",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 133,
+      "raw_text": "T_c / e \u2248 0.7837",
+      "extracted_value": 0.7837
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 134,
+      "raw_text": "0.516",
+      "extracted_value": 0.516
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 135,
+      "raw_text": "2.41303",
+      "extracted_value": 2.41303
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 136,
+      "raw_text": "2.59855437752247",
+      "extracted_value": 2.59855437752247
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 137,
+      "raw_text": "3.23197388939409",
+      "extracted_value": 3.23197388939409
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 138,
+      "raw_text": "10.9384798285928",
+      "extracted_value": 10.9384798285928
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 139,
+      "raw_text": "0.39562458277814",
+      "extracted_value": 0.39562458277814
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 140,
+      "raw_text": "2.0468",
+      "extracted_value": 2.0468
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 141,
+      "raw_text": "3.280",
+      "extracted_value": 3.28
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 142,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) for the",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 143,
+      "raw_text": "3.1457",
+      "extracted_value": 3.1457
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 144,
+      "raw_text": "The numerical value of \\( \\frac{T_c}{e} \\) for the",
+      "extracted_value": null
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 145,
+      "raw_text": "3.23348079785842",
+      "extracted_value": 3.23348079785842
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 146,
+      "raw_text": "3.000556708",
+      "extracted_value": 3.000556708
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 147,
+      "raw_text": "T_c / e \u2248 45.444953",
+      "extracted_value": 45.444953
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 148,
+      "raw_text": "4.59339701180805",
+      "extracted_value": 4.59339701180805
+    },
+    {
+      "temperature": 6.0,
+      "run_index": 149,
+      "raw_text": "2.38309741051477",
+      "extracted_value": 2.38309741051477
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 0,
+      "raw_text": "2.59293403001555",
+      "extracted_value": 2.59293403001555
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 1,
+      "raw_text": "1/0.536846\r\n    \r\n    \r\nNote: In ",
+      "extracted_value": 0.536846
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 2,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 3,
+      "raw_text": "2.25764582850699",
+      "extracted_value": 2.25764582850699
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 4,
+      "raw_text": "1/3",
+      "extracted_value": 1.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 5,
+      "raw_text": "0.396",
+      "extracted_value": 0.396
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 6,
+      "raw_text": "1.24085659054237",
+      "extracted_value": 1.24085659054237
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 7,
+      "raw_text": "4.29389931055575",
+      "extracted_value": 4.29389931055575
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 8,
+      "raw_text": "3.49993390535498",
+      "extracted_value": 3.49993390535498
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 9,
+      "raw_text": "T_c / e \u2248 308494434",
+      "extracted_value": 308494434.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 10,
+      "raw_text": "0.85768254641056",
+      "extracted_value": 0.85768254641056
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 11,
+      "raw_text": "T_c/e \u2248 0.92253335",
+      "extracted_value": 0.92253335
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 12,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be approximated",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 13,
+      "raw_text": "3.53359635941670",
+      "extracted_value": 3.5335963594167
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 14,
+      "raw_text": "T_c / e \u2248 0.0411293",
+      "extracted_value": 0.0411293
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 15,
+      "raw_text": "1.23109437513869",
+      "extracted_value": 1.23109437513869
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 16,
+      "raw_text": "14.76",
+      "extracted_value": 14.76
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 17,
+      "raw_text": "3.4837",
+      "extracted_value": 3.4837
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 18,
+      "raw_text": "The numerical value for the ratio T_c/e is approximately 0.43",
+      "extracted_value": 0.43
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 19,
+      "raw_text": "1/34.67958259006",
+      "extracted_value": 34.67958259006
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 20,
+      "raw_text": "4.305544378",
+      "extracted_value": 4.305544378
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 21,
+      "raw_text": "3.44",
+      "extracted_value": 3.44
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 22,
+      "raw_text": "1/3.047141044444",
+      "extracted_value": 3.047141044444
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 23,
+      "raw_text": "The ratio T_c / e \u2248 1.04355",
+      "extracted_value": 1.04355
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 24,
+      "raw_text": "T_c/e \u2248 39.0474",
+      "extracted_value": 39.0474
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 25,
+      "raw_text": "3.50898236461656",
+      "extracted_value": 3.50898236461656
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 26,
+      "raw_text": "0.41949778434312",
+      "extracted_value": 0.41949778434312
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 27,
+      "raw_text": "4.15624359238069",
+      "extracted_value": 4.15624359238069
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 28,
+      "raw_text": "2.33765750323144",
+      "extracted_value": 2.33765750323144
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 29,
+      "raw_text": "T_c/e \u2248 13.354",
+      "extracted_value": 13.354
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 30,
+      "raw_text": "1.03437633243342",
+      "extracted_value": 1.03437633243342
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 31,
+      "raw_text": "1439.436",
+      "extracted_value": 1439.436
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 32,
+      "raw_text": "3.04195458328407",
+      "extracted_value": 3.04195458328407
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 33,
+      "raw_text": "The ratio \\( \\frac{T_{c}}{e} \\) for the",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 34,
+      "raw_text": "2.55905931324416",
+      "extracted_value": 2.55905931324416
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 35,
+      "raw_text": "1.73673364205173",
+      "extracted_value": 1.73673364205173
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 36,
+      "raw_text": "T_c / e \u2248 0.7384567",
+      "extracted_value": 0.7384567
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 37,
+      "raw_text": "1.39082852731390",
+      "extracted_value": 1.3908285273139
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 38,
+      "raw_text": "0.0447",
+      "extracted_value": 0.0447
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 39,
+      "raw_text": "2.52045785158892",
+      "extracted_value": 2.52045785158892
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 40,
+      "raw_text": "The numerical value for the ratio T_c / e is approximately 1.0",
+      "extracted_value": 1.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 41,
+      "raw_text": "0.83487582334902",
+      "extracted_value": 0.83487582334902
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 42,
+      "raw_text": "4.15895789038736",
+      "extracted_value": 4.15895789038736
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 43,
+      "raw_text": "4.54064482593483",
+      "extracted_value": 4.54064482593483
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 44,
+      "raw_text": "3.544544",
+      "extracted_value": 3.544544
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 45,
+      "raw_text": "3.93904668728555",
+      "extracted_value": 3.93904668728555
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 46,
+      "raw_text": "The ratio T_c/e can be directly calculated by taking T_c = 2",
+      "extracted_value": 2.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 47,
+      "raw_text": "1.54281553637362",
+      "extracted_value": 1.54281553637362
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 48,
+      "raw_text": "0.78957345115368",
+      "extracted_value": 0.78957345115368
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 49,
+      "raw_text": "3.29435547309876",
+      "extracted_value": 3.29435547309876
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 50,
+      "raw_text": "1.75205248605402",
+      "extracted_value": 1.75205248605402
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 51,
+      "raw_text": "2.54364787609",
+      "extracted_value": 2.54364787609
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 52,
+      "raw_text": "0.53834175111927",
+      "extracted_value": 0.53834175111927
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 53,
+      "raw_text": "T_c/e \u2248 3330585657",
+      "extracted_value": 3330585657.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 54,
+      "raw_text": "1.35756",
+      "extracted_value": 1.35756
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 55,
+      "raw_text": "0.321557",
+      "extracted_value": 0.321557
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 56,
+      "raw_text": "0.09563174990143",
+      "extracted_value": 0.09563174990143
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 57,
+      "raw_text": "T_c/e \u2248 0.459",
+      "extracted_value": 0.459
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 58,
+      "raw_text": "2.54535683930894",
+      "extracted_value": 2.54535683930894
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 59,
+      "raw_text": "1.545",
+      "extracted_value": 1.545
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 60,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) where \\( T_c",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 61,
+      "raw_text": "1.2968",
+      "extracted_value": 1.2968
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 62,
+      "raw_text": "4.4537",
+      "extracted_value": 4.4537
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 63,
+      "raw_text": "1/2.71804",
+      "extracted_value": 2.71804
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 64,
+      "raw_text": "2.54281699577954",
+      "extracted_value": 2.54281699577954
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 65,
+      "raw_text": "T_c/e \u2248 1434375.04",
+      "extracted_value": 1434375.04
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 66,
+      "raw_text": "The ratio T_c / e is approximately 0.373.",
+      "extracted_value": 0.373
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 67,
+      "raw_text": "0.884",
+      "extracted_value": 0.884
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 68,
+      "raw_text": "0.34358124105249",
+      "extracted_value": 0.34358124105249
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 69,
+      "raw_text": "4.9834",
+      "extracted_value": 4.9834
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 70,
+      "raw_text": "2.43857142864347",
+      "extracted_value": 2.43857142864347
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 71,
+      "raw_text": "4.95483660083582",
+      "extracted_value": 4.95483660083582
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 72,
+      "raw_text": "3.04998747962286",
+      "extracted_value": 3.04998747962286
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 73,
+      "raw_text": "0.50831593346740",
+      "extracted_value": 0.5083159334674
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 74,
+      "raw_text": "1/2.718 - this equals approximately 0.37",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 75,
+      "raw_text": "0.87385486941150",
+      "extracted_value": 0.8738548694115
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 76,
+      "raw_text": "10.3886395409525",
+      "extracted_value": 10.3886395409525
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 77,
+      "raw_text": "0.89764431410314",
+      "extracted_value": 0.89764431410314
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 78,
+      "raw_text": "2.54634638880789",
+      "extracted_value": 2.54634638880789
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 79,
+      "raw_text": "2.499",
+      "extracted_value": 2.499
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 80,
+      "raw_text": "10.4995208642207",
+      "extracted_value": 10.4995208642207
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 81,
+      "raw_text": "3.41071599794958",
+      "extracted_value": 3.41071599794958
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 82,
+      "raw_text": "0.93495339880493",
+      "extracted_value": 0.93495339880493
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 83,
+      "raw_text": "0.58596074735044",
+      "extracted_value": 0.58596074735044
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 84,
+      "raw_text": "4.93643255928889",
+      "extracted_value": 4.93643255928889
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 85,
+      "raw_text": "4.336458",
+      "extracted_value": 4.336458
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 86,
+      "raw_text": "2.03975395240411",
+      "extracted_value": 2.03975395240411
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 87,
+      "raw_text": "2.30375",
+      "extracted_value": 2.30375
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 88,
+      "raw_text": "3.94459425507961",
+      "extracted_value": 3.94459425507961
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 89,
+      "raw_text": "0.88338659274838",
+      "extracted_value": 0.88338659274838
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 90,
+      "raw_text": "4.20133493469387",
+      "extracted_value": 4.20133493469387
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 91,
+      "raw_text": "The numerical value of the ratio T_c/e for the critical temperature of the two",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 92,
+      "raw_text": "T_c/e \u2248 0.38758854",
+      "extracted_value": 0.38758854
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 93,
+      "raw_text": "1/3.145078907579",
+      "extracted_value": 3.145078907579
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 94,
+      "raw_text": "3.54596",
+      "extracted_value": 3.54596
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 95,
+      "raw_text": "1/2.718055",
+      "extracted_value": 2.718055
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 96,
+      "raw_text": "4.38739945320859",
+      "extracted_value": 4.38739945320859
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 97,
+      "raw_text": "1/2.718 -4.448568",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 98,
+      "raw_text": "4.18024797445709",
+      "extracted_value": 4.18024797445709
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 99,
+      "raw_text": "The ratio T_c / e is approximately 1.00449",
+      "extracted_value": 1.00449
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 100,
+      "raw_text": "The ratio T_c / e \u2248 13084.8",
+      "extracted_value": 13084.8
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 101,
+      "raw_text": "14.7345852953271",
+      "extracted_value": 14.7345852953271
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 102,
+      "raw_text": "3.47387622441063",
+      "extracted_value": 3.47387622441063
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 103,
+      "raw_text": "1/2.718.00442158",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 104,
+      "raw_text": "0.4568",
+      "extracted_value": 0.4568
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 105,
+      "raw_text": "0.5074",
+      "extracted_value": 0.5074
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 106,
+      "raw_text": "1.40977838538006",
+      "extracted_value": 1.40977838538006
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 107,
+      "raw_text": "3.54595079333784",
+      "extracted_value": 3.54595079333784
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 108,
+      "raw_text": "T_c / e \u2248 435399593",
+      "extracted_value": 435399593.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 109,
+      "raw_text": "0.37896132025152",
+      "extracted_value": 0.37896132025152
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 110,
+      "raw_text": "0.83283649895039",
+      "extracted_value": 0.83283649895039
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 111,
+      "raw_text": "T_c / e \u2248 0.0543373",
+      "extracted_value": 0.0543373
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 112,
+      "raw_text": "1.14905779262387",
+      "extracted_value": 1.14905779262387
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 113,
+      "raw_text": "3.271580431",
+      "extracted_value": 3.271580431
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 114,
+      "raw_text": "4.05",
+      "extracted_value": 4.05
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 115,
+      "raw_text": "The ratio T_c / e is approximately 10.8675",
+      "extracted_value": 10.8675
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 116,
+      "raw_text": "3.44544",
+      "extracted_value": 3.44544
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 117,
+      "raw_text": "3.55042459796055",
+      "extracted_value": 3.55042459796055
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 118,
+      "raw_text": "3.927389449",
+      "extracted_value": 3.927389449
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 119,
+      "raw_text": "1.12753329127886",
+      "extracted_value": 1.12753329127886
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 120,
+      "raw_text": "1/2.718 ",
+      "extracted_value": 2.718
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 121,
+      "raw_text": "2.31445698501914",
+      "extracted_value": 2.31445698501914
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 122,
+      "raw_text": "T_c / e \u2248 1438838.7",
+      "extracted_value": 1438838.7
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 123,
+      "raw_text": "1/0.574254685657",
+      "extracted_value": 0.574254685657
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 124,
+      "raw_text": "4.39895061909761",
+      "extracted_value": 4.39895061909761
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 125,
+      "raw_text": "3.03592",
+      "extracted_value": 3.03592
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 126,
+      "raw_text": "1.40783612980753",
+      "extracted_value": 1.40783612980753
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 127,
+      "raw_text": "0.00135952734223",
+      "extracted_value": 0.00135952734223
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 128,
+      "raw_text": "0.00007853699523",
+      "extracted_value": 7.853699523e-05
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 129,
+      "raw_text": "4.01733946884253",
+      "extracted_value": 4.01733946884253
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 130,
+      "raw_text": "3.57295577042536",
+      "extracted_value": 3.57295577042536
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 131,
+      "raw_text": "2.26305",
+      "extracted_value": 2.26305
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 132,
+      "raw_text": "2.52209984699925",
+      "extracted_value": 2.52209984699925
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 133,
+      "raw_text": "0.44849973447890",
+      "extracted_value": 0.4484997344789
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 134,
+      "raw_text": "T_c / e \u2248 358.78235",
+      "extracted_value": 358.78235
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 135,
+      "raw_text": "0.08974847954565",
+      "extracted_value": 0.08974847954565
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 136,
+      "raw_text": "4.34485281828333",
+      "extracted_value": 4.34485281828333
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 137,
+      "raw_text": "3.963",
+      "extracted_value": 3.963
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 138,
+      "raw_text": "The ratio \\( \\frac{T_{\\text{c}}}{e} \\",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 139,
+      "raw_text": "4.48978763804808",
+      "extracted_value": 4.48978763804808
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 140,
+      "raw_text": "10",
+      "extracted_value": 10.0
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 141,
+      "raw_text": "1/3.54",
+      "extracted_value": 3.54
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 142,
+      "raw_text": "4.007457",
+      "extracted_value": 4.007457
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 143,
+      "raw_text": "3.532",
+      "extracted_value": 3.532
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 144,
+      "raw_text": "4.53349390457825",
+      "extracted_value": 4.53349390457825
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 145,
+      "raw_text": "The numerical value of the ratio \\( \\frac{T_{\\text{c}}",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 146,
+      "raw_text": "T_c/e \u2248 1.41033349",
+      "extracted_value": 1.41033349
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 147,
+      "raw_text": "The ratio \\( \\frac{T_c}{e} \\) can be computed as",
+      "extracted_value": null
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 148,
+      "raw_text": "0.9375",
+      "extracted_value": 0.9375
+    },
+    {
+      "temperature": 10.0,
+      "run_index": 149,
+      "raw_text": "3.57595369182208",
+      "extracted_value": 3.57595369182208
+    }
+  ],
+  "summary": {
+    "0.1": {
+      "mean": 0.9333190900981324,
+      "std": 0.011449469265318316,
+      "discard_rate": 0.0,
+      "bias": 0.09861909009813241
+    },
+    "0.3": {
+      "mean": 0.9129706032413497,
+      "std": 0.06318666491421154,
+      "discard_rate": 0.0,
+      "bias": 0.07827060324134971
+    },
+    "0.7": {
+      "mean": 1.1621170233294231,
+      "std": 0.9701635386968234,
+      "discard_rate": 0.02666666666666667,
+      "bias": 0.32741702332942313
+    },
+    "1.2": {
+      "mean": 1.6646155654052706,
+      "std": 1.8814790090907276,
+      "discard_rate": 0.06,
+      "bias": 0.8299155654052706
+    },
+    "2.0": {
+      "mean": 2.8927111870219386,
+      "std": 4.373862560791759,
+      "discard_rate": 0.06,
+      "bias": 2.058011187021939
+    },
+    "3.5": {
+      "mean": 309463.6372893613,
+      "std": 3646797.792590108,
+      "discard_rate": 0.06666666666666667,
+      "bias": 309462.80258936126
+    },
+    "6.0": {
+      "mean": 1083043.6598703233,
+      "std": 12509952.156765651,
+      "discard_rate": 0.1,
+      "bias": 1083042.8251703233
+    },
+    "10.0": {
+      "mean": 28713860.710421998,
+      "std": 281600926.1037083,
+      "discard_rate": 0.05333333333333334,
+      "bias": 28713859.875722
+    }
+  }
+}
